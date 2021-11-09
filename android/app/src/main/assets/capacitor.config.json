@@ -1,0 +1,6 @@
+{
+	"appId": "com.org.svelte",
+	"appName": "svelte-examples",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}

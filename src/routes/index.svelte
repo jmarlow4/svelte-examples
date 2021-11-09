@@ -1,4 +1,4 @@
-<div class="flex w-full mx-auto px-6 py-8">
+<!-- <div class="flex w-full mx-auto px-6 py-8">
 	<div
 		class="flex flex-col w-full h-full text-gray-900 text-xl border-4 border-gray-900 border-dashed"
 	>
@@ -27,5 +27,15 @@
 		>
 			Post
 		</div>
+	</div>
+</div> -->
+
+<div class="px-6 py-8">
+	<div class="text-gray-900 text-xl">
+		<div class="h-60 justify-center bg-green-400 border-b border-gray-600">Post</div>
+		<div class="h-60 justify-center bg-green-400 border-b border-gray-600">Post</div>
+		<div class="h-60 justify-center bg-green-400 border-b border-gray-600">Post</div>
+		<div class="h-60 justify-center bg-green-400 border-b border-gray-600">Post</div>
+		<div class="h-60 justify-center bg-green-400 border-b border-gray-600">Post</div>
 	</div>
 </div>

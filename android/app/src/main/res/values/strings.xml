@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">svelte-examples</string>
+    <string name="title_activity_main">svelte-examples</string>
+    <string name="package_name">com.org.svelte</string>
+    <string name="custom_url_scheme">com.org.svelte</string>
+</resources>
